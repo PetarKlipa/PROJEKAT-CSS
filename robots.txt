@@ -1,0 +1,4 @@
+User-agent: *
+Dissallow: /slike/
+
+sitemap: https://github.com/PetarKlipa/PROJEKAT-CSS/blob/main/sitemap.xml
